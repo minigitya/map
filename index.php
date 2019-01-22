@@ -1,2 +1,3 @@
 <?echo 'test';?>
 <?print('test2');?>
+<?var_dump('test3');?>
